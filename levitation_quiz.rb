@@ -1,7 +1,9 @@
 
 def levitation_quiz
 	loop do 
-	  puts "#your code here
+	  puts "What is the spell that enacts levitation?"
+	  answer = gets.chomp 
+	  breaks if answer == 
 end
 
 
